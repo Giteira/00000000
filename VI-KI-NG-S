@@ -1,0 +1,22 @@
+#EXTM3U size="Medium"
+
+
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E01E2 THE DEPARTED
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP01-02.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E03 HOMELAND 
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP03.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E04 THE PLAN
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP04.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E05 THE PRISIONER
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP05.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E06 THE MESSAGE
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP06.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E07 FULL MOON
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP07.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E08 THE JOKE
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP08.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E09 A SIMPLE STORY
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP09.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2016/04/medium-cover-1.jpg" group-title="VIKINGS",VIKINGS S05E10 MOMENTS OF VISION
+http://cdnfe3.azureedge.net/RCServer13/ondemand/VKGST05EP10.mp4
+
