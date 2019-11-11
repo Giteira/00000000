@@ -1,0 +1,22 @@
+#EXTM3U size="Medium"
+
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E01
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP01.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E02
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP02.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E03
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP03.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E04
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP04.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E05
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP05.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E06
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP06.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E07
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP07.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E08
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP08.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E09
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP09.mp4
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/8f/Band_of_Brothers.jpg" group-title="BAND OF BROTHERS",E10
+http://cdnfe3.azureedge.net/RCServer02/ondemand/BANOBRTHEP10.mp4
