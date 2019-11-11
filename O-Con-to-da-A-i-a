@@ -1,8 +1,5 @@
 #EXTM3U size="Medium"
 
------O Conto da Aia-----:
-description="" 
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBsYg7fgV6ZDGUgwYPNIZvBXOXY3GsKeaVOPGSHj_gAm2r0UP" group-title="O Conto da Aia - dublado",1T-E01
 http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIA1T-EP01.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBsYg7fgV6ZDGUgwYPNIZvBXOXY3GsKeaVOPGSHj_gAm2r0UP" group-title="O Conto da Aia - dublado",1T-E02
