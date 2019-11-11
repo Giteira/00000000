@@ -1,0 +1,61 @@
+#EXTM3U size="Medium"
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x01 - Primeira Luz"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/MNTEADGAT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x02 - Sprints de Suicídio"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/MNTEADGAT01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x03 - Vitral"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/MNTEADGAT01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x04 - Chamada / Resposta"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/MNTEADGAT01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x05 - Ofensa de Princeton"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/MNTEADGAT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x06 - Espelhos da Diversão"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/MNTEADGAT01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x07 - Comedores de Lótus"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/MNTEADGAT01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x08 - Histórias de Fantasma"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/MNTEADGAT01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x09 - Disjuntor Traseiro"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/MNTEADGAT01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Manto%20e%20Adaga1.jpg" group-title="Manto & Adaga", "01x10 - Colapso das Colônias"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/MNTEADGAT01EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x01 - Energia Inquieta"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x02 - Linhas Brancas"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x03 - Eus da Sombra"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x04 - Toca do Coelho"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x05 - Gráfico de Alinhamento"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x06 - Lados B"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x07 - Som de Vikingtown"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x08 - Dois Jogadores"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x09 - Nota Azul"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Manto%20e%20Adaga%202.jpg" group-title="Manto & Adaga", "02x10 - Subir de Nível"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/MNTEADGAT02EP10.mp4
