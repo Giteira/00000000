@@ -1,0 +1,11 @@
+
+#EXTM3U size="Medium"
+
+#EXTINF:0 tvg-logo="http://www.revistapixel.com.br/wp-content/uploads/2016/09/gigantes.jpg" group-title="GIGANTES DO BRASIL",Gigantes do Brasil E01	
+http://cdnfe3.azureedge.net/RCServer10/ondemand/GIGNTSDBRSLPT01.mp4
+#EXTINF:0 tvg-logo="http://www.revistapixel.com.br/wp-content/uploads/2016/09/gigantes.jpg" group-title="GIGANTES DO BRASIL",Gigantes do Brasil E02	
+http://cdnfe3.azureedge.net/RCServer10/ondemand/GIGNTSDBRSLPT02.mp4
+#EXTINF:0 tvg-logo="http://www.revistapixel.com.br/wp-content/uploads/2016/09/gigantes.jpg" group-title="GIGANTES DO BRASIL",Gigantes do Brasil E03	
+http://cdnfe3.azureedge.net/RCServer10/ondemand/GIGNTSDBRSLPT03.mp4
+#EXTINF:0 tvg-logo="http://www.revistapixel.com.br/wp-content/uploads/2016/09/gigantes.jpg" group-title="GIGANTES DO BRASIL",Gigantes do Brasil E04	
+http://cdnfe3.azureedge.net/RCServer10/ondemand/GIGNTSDBRSLPT04.mp4
