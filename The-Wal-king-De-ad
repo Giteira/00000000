@@ -302,16 +302,16 @@ https://slave2.sfplayer.net/drive//hls/7141b0dcc2938393b0d78aa4987b7a07/7141b0dc
 https://slave2.sfplayer.net/drive//hls/8e2a8095a16e8d30d18a348669bb1511/8e2a8095a16e8d30d18a348669bb1511.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E03 - Fantasmas
 https://slave2.sfplayer.net/drive//hls/e7748c9bb286ee45862ec501d310303a/e7748c9bb286ee45862ec501d310303a.m3u8
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E04 - Silencie os Sussurradores - Em Breve
-		
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E05 - O Que Sempre É - Em Breve
-		
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E06 - Ossos - Em Breve
-		
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E07 - Abra Seus Olhos - Em Breve
-		
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E08 - O Mundo de Antes - Em Breve
-		
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E04 - Silencie os Sussurradores
+http://cdnfe3.azureedge.net/RCServer13/ondemand/TWDT08EP04.mp4
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E05 - O Que Sempre É
+http://cdnfe3.azureedge.net/RCServer13/ondemand/TWDT08EP05.mp4
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E06 - Ossos
+http://cdnfe3.azureedge.net/RCServer13/ondemand/TWDT08EP06.mp4
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E07 - Abra Seus Olhos
+http://cdnfe3.azureedge.net/RCServer13/ondemand/TWDT08EP07.mp4
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E08 - O Mundo de Antes
+http://cdnfe3.azureedge.net/RCServer13/ondemand/TWDT08EP08.mp4
 
 ########### Webisódios ##########
 		
