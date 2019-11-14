@@ -106,3 +106,13 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/OBMDTRT02EP17.mp4
 
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Bom%20Doutor%202.jpg" group-title="O Bom Doutor / The Good Doctor", "02x18 - Trampolim"
 http://cdnfe2.azureedge.net/RCServer06/ondemand/OBMDTRT02EP18.mp4
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/mKxYoVk.png" group-title="THE GOOD DOCTOR",TGD T3|EP1 (LEG)
+http://cdnfe3.azureedge.net/RCServer08/ondemand/OBMDTRS01EP01.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/mKxYoVk.png" group-title="THE GOOD DOCTOR",TGD T3|EP2 (LEG)
+http://cdnfe3.azureedge.net/RCServer08/ondemand/OBMDTRS01EP02.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/mKxYoVk.png" group-title="THE GOOD DOCTOR",TGD T3|EP3 (LEG)
+http://cdnfe3.azureedge.net/RCServer08/ondemand/OBMDTRS01EP03.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/mKxYoVk.png" group-title="THE GOOD DOCTOR",TGD T3|EP4 (LEG)
+http://cdnfe3.azureedge.net/RCServer08/ondemand/OBMDTRS01EP04.mp4?STANIPTV
